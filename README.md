@@ -2,7 +2,7 @@
 
 #### Multi choice quiz for aspiring programmers, 6/7/2019
 
-#### By Mike Lofgren
+#### By Mike Lofgren https://mikearino.github.io/Week_2_Code_Review/
 
 ## Description
 
