@@ -16,19 +16,19 @@ $(document).ready(function() {
       $(".swift").hide();
       $(".ruby").hide();
       $(".javascript").hide();
-    } else if (total >= 11 && total >= 15) {
+    } else if (total >= 11 && total <= 15) {
       $(".please").hide();
       $(".python").hide();
       $(".swift").show();
       $(".ruby").hide();
       $(".javascript").hide();
-    } else if (total >= 16 && total >= 20) {
+    } else if (total >= 16 && total <= 20) {
       $(".please").hide();
       $(".python").hide();
       $(".swift").hide();
       $(".ruby").show();
       $(".javascript").hide();
-    } else if (total >= 21 && total >= 25) {
+    } else if (total >= 21 && total <= 25) {
       $(".please").hide();
       $(".python").hide();
       $(".swift").hide();

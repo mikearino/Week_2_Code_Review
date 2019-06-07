@@ -8,16 +8,30 @@ h1 {
 }
 
 h2 {
-  color: white;
+  color: #fe2171;
 }
 
 h3 {
-  color: white;
+  color: #a6e030;
 }
 
 img {
   width: 100%;
   height: auto;
+}
+
+.jumbotron {
+  background-color: #7da7ff;
+}
+
+.form-control {
+background-color: #7da7ff;
+border: solid black 3px;
+}
+
+#submitbutton{
+  background-color: #272922;
+  border: solid black 1px;
 }
 
 .please {
