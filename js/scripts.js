@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  console.log("Jquery is working OOOOOHHHHHH!");
+  console.log("Jquery is working");
   $("#submitbutton").click(function(event){
     event.preventDefault();
     var music = parseInt($("select#music").val());

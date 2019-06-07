@@ -22,16 +22,12 @@ img {
 
 .jumbotron {
   background-color: #7da7ff;
+  margin-top: 50px;
 }
 
 .form-control {
 background-color: #7da7ff;
 border: solid black 3px;
-}
-
-#submitbutton{
-  background-color: #272922;
-  border: solid black 1px;
 }
 
 .please {
@@ -52,4 +48,10 @@ border: solid black 3px;
 
 .javascript {
   display: none;
+}
+
+#submitbutton{
+  background-color: #272922;
+  border: solid black 1px;
+  margin-bottom: 50px;
 }
